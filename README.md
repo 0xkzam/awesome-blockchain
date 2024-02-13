@@ -8,6 +8,7 @@ A personally curated list of resources about blockchain related tech.
 
 ### Cryptography
 - [ZK book](https://www.rareskills.io/zk-book), Rareskills
+- [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs), Matter Labs
 
 
 ### Other
