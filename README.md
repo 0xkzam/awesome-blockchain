@@ -7,7 +7,8 @@ A personally curated list of resources about blockchain related tech.
 
 ## Consensus
 - [How Proof of Stake Ethereum Works](https://www.cryptofrens.info/p/how-proof-of-stake-ethereum-works?utm_campaign=post&utm_medium=web), Patrick McCorry
-- [Analysis of the XRP Ledger Consensus Protocol](https://arxiv.org/pdf/1802.07242.pdf), Brad Chase et al.
+- [Consensus Canon](https://a16zcrypto.com/posts/article/consensus-canon/), Andrew Lewis-Pye
+- [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51), Vitalik Buterin
 
 ## Cryptography
 - [ZK book](https://www.rareskills.io/zk-book), Rareskills
