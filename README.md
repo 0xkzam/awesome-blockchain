@@ -7,4 +7,8 @@ A personally curated list of resources about blockchain related tech.
 
 
 ### Cryptography
-- [ZK book](https://www.rareskills.io/zk-book), Rareskills 
+- [ZK book](https://www.rareskills.io/zk-book), Rareskills
+
+
+### Other
+- [Tokenization for capital markets](https://blog.chain.link/tokenization-for-capital-markets/), Chainlink
