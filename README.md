@@ -4,6 +4,7 @@ A personally curated list of resources about blockchain related tech.
 
 ## DEX/AMM
 - [What is a DEX](https://uniswap.university/guides/view/what-is-a-dex-uniswap/0), Uniswap university guide
+- [What Is a DEX (Decentralized Exchange)?](https://chain.link/education-hub/what-is-decentralized-exchange-dex), Chainlink
 
 ## Consensus
 - [How Proof of Stake Ethereum Works](https://www.cryptofrens.info/p/how-proof-of-stake-ethereum-works?utm_campaign=post&utm_medium=web), Patrick McCorry
