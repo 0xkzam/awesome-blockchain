@@ -1,5 +1,5 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-### My curated list of resources about blockchain/crypto *(WIP)*
+#### My curated list of resources about blockchain/crypto *(WIP)*
 
 ### DEX/AMM
 - [What is a DEX](https://uniswap.university/guides/view/what-is-a-dex-uniswap/0), Uniswap university guide
