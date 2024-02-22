@@ -19,6 +19,10 @@
 - [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs), Matter Labs
 - [FHE as a Puzzle Piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece), ZAMA
 
+### Programming
+- [Bitcoin textbook](https://kkarasavvas.com/assets/bitcoin-textbook.pdf), Konstantinos Karasavvas
+- [Blockchain Developer, Solidity, Foundry Full Course 2023](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42), Patrick Collins
+- [Cairo Book](https://book.cairo-lang.org/), The Cairo Community et al
 
 ### Tokenization
 - [Tokenization for capital markets](https://blog.chain.link/tokenization-for-capital-markets/), Chainlink
