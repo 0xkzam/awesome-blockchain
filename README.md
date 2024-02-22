@@ -1,7 +1,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 #### My curated list of resources about blockchain/crypto *(WIP)*
 
-### DEX/AMM
+### DeFi
 - [What is a DEX](https://uniswap.university/guides/view/what-is-a-dex-uniswap/0), Uniswap university guide
 - [What Is a DEX (Decentralized Exchange)?](https://chain.link/education-hub/what-is-decentralized-exchange-dex), Chainlink
 
@@ -10,6 +10,10 @@
 - [Consensus Canon](https://a16zcrypto.com/posts/article/consensus-canon/), Andrew Lewis-Pye
 - [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51), Vitalik Buterin
 
+### Security
+- [What happens when you send 1 DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai), Tincho
+
+  
 ### Cryptography
 - [ZK book](https://www.rareskills.io/zk-book), Rareskills
 - [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs), Matter Labs
@@ -21,3 +25,4 @@
 
 ### Other
 - [Cryptocurrency Class 2022](https://pisa.watch/), Patrick McCorry
+
