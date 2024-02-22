@@ -23,6 +23,9 @@
 ### Tokenization
 - [Tokenization for capital markets](https://blog.chain.link/tokenization-for-capital-markets/), Chainlink
 
-### Other
+### Learning Hubs
 - [Cryptocurrency Class 2022](https://pisa.watch/), Patrick McCorry
+- [LearnWeb3](https://learnweb3.io/)
+- [Encode Club](https://www.encode.club/)
+- [ZK Hack](https://zkhack.dev/)
 
