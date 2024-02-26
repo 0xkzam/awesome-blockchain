@@ -26,7 +26,8 @@
 ### Programming
 - [Bitcoin textbook](https://kkarasavvas.com/assets/bitcoin-textbook.pdf), Konstantinos Karasavvas
 - [Blockchain Developer, Solidity, Foundry Full Course 2023](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42), Patrick Collins
-- [Cairo Book](https://book.cairo-lang.org/), The Cairo Community et al
+- [Cairo Book](https://book.cairo-lang.org/)
+- [Awesome Blockchain Rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 
 
 ### Tokenization
