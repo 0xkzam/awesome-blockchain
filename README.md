@@ -21,6 +21,7 @@
 - [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs), Matter Labs
 - [FHE as a Puzzle Piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece), ZAMA
 - [AsesomeZK](https://github.com/ExtropyIO/AwesomeZK), Extropy
+- [Understanding Zero-Knowledge Proofs Through the Source Code of Tornado Cash](https://betterprogramming.pub/understanding-zero-knowledge-proofs-through-the-source-code-of-tornado-cash-41d335c5475f), Laszlo Fazekas
 
 
 ### Programming
