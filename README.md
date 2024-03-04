@@ -12,7 +12,9 @@
 - [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51), Vitalik Buterin
 
 
-### Security
+### EVM
+- [Learn EVM](https://learnevm.com/chapters/intro/overview), 0xMacro
+- [EVM rom Scratch](https://evm-from-scratch.xyz/), Shafu
 - [What happens when you send 1 DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai), Tincho
 
   
@@ -23,6 +25,7 @@
 - [AsesomeZK](https://github.com/ExtropyIO/AwesomeZK), Extropy
 - [Understanding Zero-Knowledge Proofs Through the Source Code of Tornado Cash](https://betterprogramming.pub/understanding-zero-knowledge-proofs-through-the-source-code-of-tornado-cash-41d335c5475f), Laszlo Fazekas
 - [Awesome Mina](https://awesome.mina.tools/)
+- [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green
 
 
 ### Programming
@@ -36,7 +39,7 @@
 - [Tokenization for capital markets](https://blog.chain.link/tokenization-for-capital-markets/), Chainlink
 
 
-### Learning Hubs
+### Free Learning Hubs
 - [Cryptocurrency Class 2022](https://pisa.watch/), Patrick McCorry
 - [LearnWeb3](https://learnweb3.io/)
 - [Encode Club](https://www.encode.club/)
