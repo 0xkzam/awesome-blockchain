@@ -27,6 +27,7 @@
 - [Awesome Mina](https://awesome.mina.tools/)
 - [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green
 - [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq), Zero Knowledge
+- [Introduction to FHE](https://taiko.mirror.xyz/2O9rJeB-1PalQeYQlZkn4vgRNr_PgzaO8TWUOM5wf3M), Taiko Labs
 
 
 ### Programming
