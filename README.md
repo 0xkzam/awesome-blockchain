@@ -17,6 +17,7 @@
 - [EVM rom Scratch](https://evm-from-scratch.xyz/), Shafu
 - [What happens when you send 1 DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai), Tincho
 - [Blobspace 101](https://domothy.com/blobspace/), Domothy
+- [Danksharding Workshop | Devcon Bogotá](https://archive.devcon.org/archive/watch/6/danksharding-workshop/?tab=YouTube), Dankrad Feist et al
 
   
 ### ZK
