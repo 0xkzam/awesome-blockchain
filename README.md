@@ -1,5 +1,5 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-#### My curated list of resources about blockchain/crypto *(WIP)*
+#### My list of resources/readings about blockchain/crypto *(WIP)*
 
 ### DeFi
 - [What is a DEX](https://uniswap.university/guides/view/what-is-a-dex-uniswap/0), Uniswap university guide
@@ -19,16 +19,20 @@
 - [Blobspace 101](https://domothy.com/blobspace/), Domothy
 - [Danksharding Workshop | Devcon Bogotá](https://archive.devcon.org/archive/watch/6/danksharding-workshop/?tab=YouTube), Dankrad Feist et al
 
-  
-### ZK
-- [ZK book](https://www.rareskills.io/zk-book), Rareskills
-- [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs), Matter Labs
-- [FHE as a Puzzle Piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece), ZAMA
-- [AsesomeZK](https://github.com/ExtropyIO/AwesomeZK), Extropy
-- [Understanding Zero-Knowledge Proofs Through the Source Code of Tornado Cash](https://betterprogramming.pub/understanding-zero-knowledge-proofs-through-the-source-code-of-tornado-cash-41d335c5475f), Laszlo Fazekas
-- [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green
-- [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq), Zero Knowledge
-- [Introduction to FHE](https://taiko.mirror.xyz/2O9rJeB-1PalQeYQlZkn4vgRNr_PgzaO8TWUOM5wf3M), Taiko Labs
+
+### Cryptography
+- Math
+  - [CRYPTO 101](https://www.crypto101.io/), Laurens Van Houtven
+  - [The MoonMath Manual](https://leastauthority.com/community-matters/moonmath-manual/), Least Authority
+- ZK
+  - [ZK book](https://www.rareskills.io/zk-book), Rareskills
+  - [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs), Matter Labs
+  - [FHE as a Puzzle Piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece), ZAMA
+  - [AsesomeZK](https://github.com/ExtropyIO/AwesomeZK), Extropy
+  - [Understanding Zero-Knowledge Proofs Through the Source Code of Tornado Cash](https://betterprogramming.pub/understanding-zero-knowledge-proofs-through-the-source-code-of-tornado-cash-41d335c5475f), Laszlo Fazekas
+  - [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green
+  - [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq), Zero Knowledge
+  - [Introduction to FHE](https://taiko.mirror.xyz/2O9rJeB-1PalQeYQlZkn4vgRNr_PgzaO8TWUOM5wf3M), Taiko Labs
 
 
 ### Programming
