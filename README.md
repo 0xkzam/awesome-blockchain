@@ -1,5 +1,5 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-#### My list of resources/readings about blockchain/crypto *(WIP)*
+#### Curated list of resources/readings on blockchain/crypto: A compilation from my study journey, continuously updated with valuable finds.
 
 ### DeFi
 - [What is a DEX](https://uniswap.university/guides/view/what-is-a-dex-uniswap/0), Uniswap university guide
