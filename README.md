@@ -25,13 +25,16 @@
   - [CRYPTO 101](https://www.crypto101.io/), Laurens Van Houtven
   - [The MoonMath Manual](https://leastauthority.com/community-matters/moonmath-manual/), Least Authority
 - ZK
-  - [ZK book](https://www.rareskills.io/zk-book), Rareskills
-  - [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs), Matter Labs
-  - [FHE as a Puzzle Piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece), ZAMA
-  - [AsesomeZK](https://github.com/ExtropyIO/AwesomeZK), Extropy
+  - [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green  
   - [Understanding Zero-Knowledge Proofs Through the Source Code of Tornado Cash](https://betterprogramming.pub/understanding-zero-knowledge-proofs-through-the-source-code-of-tornado-cash-41d335c5475f), Laszlo Fazekas
-  - [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/), Matthew Green
-  - [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq), Zero Knowledge
+  - [ZK book](https://www.rareskills.io/zk-book), Rareskills
+  - [Demystifying Zero Knowledge Proofs: How To Build DApps With zk-SNARKs](https://youtube.com/playlist?list=PLOZHkgsn2AzNWJF9fIoPpM8ZejOJEyYtY&si=-J0Mc-tHrLAiJA38), Dystopia Labs
+  - [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq), ZK Hack
+  - Awesome Repos    
+    - [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs), Matter Labs
+    - [AsesomeZK](https://github.com/ExtropyIO/AwesomeZK), Extropy
+- Hormomorphic Encryption
+  - [FHE as a Puzzle Piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece), ZAMA
   - [Introduction to FHE](https://taiko.mirror.xyz/2O9rJeB-1PalQeYQlZkn4vgRNr_PgzaO8TWUOM5wf3M), Taiko Labs
 
 
